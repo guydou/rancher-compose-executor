@@ -132,6 +132,7 @@ var dockerConfigHints = map[string]string{
 	"priviliged":  "privileged",
 	"privilige":   "privileged",
 	"volume":      "volumes",
+	"secret":      "secrets",
 	"workdir":     "working_dir",
 }
 
